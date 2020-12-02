@@ -1,0 +1,99 @@
+Apoquindo 4001, piso 9
+Estacionamiento 341, nivel -5
+
+SAP: da#25703 (27Jul2012)
+
+User: SEPUDA
+Pass: BHP1234.
+Num. Empleado: 898946
+Email: daniel.da.sepulveda@bhpbilliton.com
+
+Numero Asistencia IBM: 800521100
+
+Shareplus
+www.computershare.com/bhpb
+SRN: I0205752242
+Pin: 84460
+
+Carlson Wagonlit
+Pin: 32331814
+Password: da#25704
+
+Airweb Trondent
+Pass: da#25700
+
+Blackberry Pin: 8178
+Blackberry Puk: 33023807
+
+Movistar
+OLD SITE:63006431 x 1692
+New Site: kathu8446
+
+American Express
+kathuman
+da#25704
+
+SICEP
+http://www.sistemasicep.cl/
+User: MEL16
+Pass: M6L16
+Case Sensitive
+
+BANMEDICA
+8446000
+
+CUPRUM
+ka8446
+
+VDI - Vereinigung Deutsche Ingeneure
+Mitgl.Nr: 11207861
+Pass: Kathu8446#
+
+BECHTEL
+User: IAMERS\DASEPULV 
+Pass: DS2011Bhpb
+
+Bechtel-BHP Eroom
+https://eroom.bechtel.com/eRoom/MMProjects04/ENFM
+User: daniel.da.sepulveda@bhpbilliton.com
+Pass: Bechtel820         
+
+LeyChile
+http://www.leychile.cl/Consulta
+User: Kathuman
+Pass: kathu8446
+
+********************************************+
+1VOICE
+Welcome to Exchange Unified Messaging
+
+To use your telephone to access your e-mail, calendar and contacts, call your access number and enter your PIN at the prompt.
+ 	Your access number(s):	19729665080 or +19729665080
+ 	Your extension:	85792691
+ 	Your PIN:	84468446 (29Oct2012)
+
+********************************************+
+
+BOOKS24x7
+http://skillport.books24x7.com/login.asp?ic=0
+Userid: g65098
+Pass: kathu8446
+GroupCode: HL76J
+
+**********************
+Bechtel eRFP
+
+https://initiator.erfp.bechtel.com 
+Domain:  eBechtel
+User: daniel.da.sepulveda@bhpbilliton.com
+Password:  DSbhpchile55
+
+Procurement Leadership Council
+https://psc.executiveboard.com
+Email: daniel.da.sepulveda@bhpbiliton.com
+pass: kathu257
+
+
+
+
+
