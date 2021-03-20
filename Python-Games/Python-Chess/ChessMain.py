@@ -50,14 +50,19 @@ def main():
                 col = location[0]//SQ_SIZE
                 row = location[1]//SQ_SIZE
                 #check if the user already selected this square, as it wqould be an undo
-                if sqSelected = (row,col):
+                if sqSelected == (row,col):
                     sqSelected = () #Unselect the square
                     playerClicks = [] #reset the clicks
-                sqSelected = (row,col)
-                playerClicks.append(sqSelected) # we append both the first and second clicks
-            #was this the user's secodn click?
+                else:
+                    sqSelected = (row,col)
+                    playerClicks.append(sqSelected) # we append both the first and second clicks               
+                #was this the user's second click?
                 if len(playerClicks)==2: #after the second click
-                    
+                    move = ChessEngine.Move(playerClicks[0], playerClicks[1], gs.board)
+                    print(move.getChessNotation())
+                    gs.makeMove(move)
+                    sqSelected = () # reset the user clicks
+                    playerClicks = []
             
         drawGameState(screen, gs)
         clock.tick(MAX_FPS)
