@@ -1,2 +1,9 @@
-
 Python-SystemDynamics/manim/
+
+# editor and notebook caches
+.ipynb_checkpoints/
+.spyproject/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
